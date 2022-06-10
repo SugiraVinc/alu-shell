@@ -1,2 +1,2 @@
 #!/bin/bash
-sort 9-duplicate_last_line |tail -n 1 9-duplicate_last_line| uniq -d
+sort iacta |tail -n 1 iacta| uniq -d
