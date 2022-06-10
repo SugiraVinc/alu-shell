@@ -1,2 +1,3 @@
 #!/bin/bash
-:)
+unique -d iacta | tail -n 1
+
